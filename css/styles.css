@@ -561,3 +561,16 @@ body.modal-open, .modal-open .navbar-fixed-top, .modal-open .navbar-fixed-bottom
     margin:0 auto;
 }
 }
+
+#searchForm input[type=text] {
+    background: rgba(0,0,0,0.35);
+    outline: none;
+    border: none;
+    border-radius: 0px;
+    color: #fff;
+    padding: 20px;
+}
+
+#searchBtn {
+    display: none;
+}
